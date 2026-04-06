@@ -5,6 +5,10 @@
 *   **Notebook**: Dokumentasi proses untuk juri teknis.
 *   **Streamlit**: Demo interaktif untuk presentasi, bisa diakses siapapun lewat browser.
 
+### Project Workflow & UI
+![Workflow](flow.png)
+![Dashboard Preview](image.png)
+
 ### Datasets
 *   [NSL-KDD (Kaggle)](https://www.kaggle.com/datasets/hassan06/nslkdd)
 *   [IoMT Dataset 2024 (UNB CIC)](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html)
